@@ -5,9 +5,9 @@ minimal_mistakes_skin: "air"
 locale: "en-US"
 title: "Shakthi Lakmal"
 title_separator: "|"
-subtitle: "Food Science & AI Researcher"
+subtitle: "AI-Guided Molecular Discovery Researcher"
 name: "Shakthi Lakmal"
-description: "Portfolio of Shakthi Lakmal - Food Science and Technology graduate with expertise in AI, Computer Vision, and Biochemistry"
+description: "Portfolio of Shakthi Lakmal - Researcher focused on AI-guided molecular discovery, taste receptor engineering, and intelligent food systems"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -51,8 +51,8 @@ analytics:
 # Site Author
 author:
   name: "Shakthi Lakmal"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "BSc Food Science & Technology | AI & Computer Vision Researcher | Microsoft Student Ambassador (Gold)"
+  avatar: "/assets/images/Shakthi%20Lakmal.png"
+  bio: "Researcher focused on AI-guided molecular discovery, taste receptor engineering, and intelligent food systems. I bridge the gap between in silico computational modeling and physical biological applications to accelerate the development of novel bioactive compounds."
   location: "Galle, Sri Lanka"
   email: "lakmalshakthi25@gmail.com"
   links:
