@@ -5,9 +5,9 @@ minimal_mistakes_skin: "air"
 locale: "en-US"
 title: "Shakthi Lakmal"
 title_separator: "|"
-subtitle: "Developer & Tech Enthusiast"
+subtitle: "Food Science & AI Researcher"
 name: "Shakthi Lakmal"
-description: "Personal website and portfolio of Shakthi Lakmal"
+description: "Portfolio of Shakthi Lakmal - Food Science and Technology graduate with expertise in AI, Computer Vision, and Biochemistry"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -42,6 +42,7 @@ social:
   name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://github.com/Shakthi-lakmalMSA"
+    - "https://www.linkedin.com/in/shakthi-lakmal"
 
 # Analytics
 analytics:
@@ -51,16 +52,19 @@ analytics:
 author:
   name: "Shakthi Lakmal"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Developer and technology enthusiast passionate about building amazing solutions"
-  location:
-  email:
+  bio: "BSc Food Science & Technology | AI & Computer Vision Researcher | Microsoft Student Ambassador (Gold)"
+  location: "Galle, Sri Lanka"
+  email: "lakmalshakthi25@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Shakthi-lakmalMSA"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/shakthi-lakmal"
+      url: "https://www.linkedin.com/in/shakthi-lakmal"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lakmalshakthi25@gmail.com"
 
 # Site Footer
 footer:
@@ -70,7 +74,13 @@ footer:
       url: "https://github.com/Shakthi-lakmalMSA"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/shakthi-lakmal"
+      url: "https://www.linkedin.com/in/shakthi-lakmal"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lakmalshakthi25@gmail.com"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+94778988351"
 
 # Reading Files
 include: ["_pages"]
